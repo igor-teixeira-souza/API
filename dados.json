@@ -1,0 +1,22 @@
+{
+    "Nome": "The Good Kid",
+    "album": "Good Kid 4",
+    "style": "Alternative Rock",
+    "price": "R$ 168,78",
+    "image": "<img src='./_img/a0277449505_65.jfif'>",
+
+    "Nome2": "Eminem",
+    "album2": "The Marshall Mathers LP",
+    "style2": "Hip-Hop/rap",
+    "price2": "R$ 73,30",
+    "image2": "<img src='./_img/EMINEMTHEMARSHAL_2019-11-06_13-19-30_wXqNb8IX4v_1024x1024.webp'>",
+
+    "Nome3": "Travis Scott",
+    "album3": "Astroworld",
+    "style3": "Hip-Hop/Rap",
+    "price3": "R$ 100,90",
+    "image3": "<img src='./_img/Travis_Scott_-_Openair_Frauenfeld_2019_08.jpg'>"
+
+    
+
+}
